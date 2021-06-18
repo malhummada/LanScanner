@@ -16,4 +16,22 @@ This is python program have 4 ways to scan your LOCAL NETWORK
 
 
 # Installation
- - git clone 
+ - git clone https://github.com/Malhumada/LanScanner
+ - cd LanScanner
+ - pip install -r requirements.txt 
+ - python3 scanner.py
+
+
+
+ # Donate BITCOIN for support me
+ 
+ ![image](https://user-images.githubusercontent.com/55332488/122542464-63ba5f00-d033-11eb-9f55-c33c9927e944.png)
+ 
+ 
+ - My Public Address to Receive BTC 
+ - bc1qrzvwfwzytazea2yumh2kf2jkqc0ymu8mmnzyzv
+
+
+
+
+

@@ -10,7 +10,8 @@ This is python program have 4 ways to scan your LOCAL NETWORK
   - Scan special port for special device IP (Quick)
   - Scan for ALL ports for ALL devices in local network (Takes long time)
 
-![image](https://user-images.githubusercontent.com/55332488/122548640-489f1d80-d03a-11eb-979b-a0d3d1793523.png)
+
+![image](https://user-images.githubusercontent.com/55332488/122548847-8a2fc880-d03a-11eb-96d7-535b8f5e81a3.png)
 
 
 
